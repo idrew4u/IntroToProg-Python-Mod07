@@ -151,19 +151,19 @@ except Exception as e: # error message when error does not meet previous error
 ```
 ###### *Figure 6: Script including both concepts of pickling and exception handling.*
 
-![Result of running program in PyCharm with no errors](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/fig.7a.png)
+![Result of running program in PyCharm with no errors](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/docs/fig.7a.png)
 ###### *Figure 7a: Program run in PyCharm with no errors.*
 
-![Result of running program in PyCharm with errors](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/fig.7b.png)
+![Result of running program in PyCharm with errors](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/docs/fig.7b.png)
 ###### *Figure 7b: Program run in PyCharm with errors.*
 
-![Result of running program in macOS terminal with errors](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/fig.8a.png)
+![Result of running program in macOS terminal with errors](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/docs/fig.8a.png)
 ###### *Figure 8a: Program run in macOS terminal with errors.*
 
-![Result of running program in macOS terminal without errors](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/fig.8b.png)
+![Result of running program in macOS terminal without errors](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/docs/fig.8b.png)
 ###### *Figure 8b: Program run in macOS terminal without errors.*
 
-![Sample of “AppData.dat” file after being pickled](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/fig.9.png)
+![Sample of “AppData.dat” file after being pickled](https://github.com/idrew4u/IntroToProg-Python-Mod07/blob/main/docs/fig.9.png)
 ###### *Figure 9: Sample of “AppData.dat” file after being pickled.*
 
 ## Summary
